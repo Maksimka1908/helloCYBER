@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello CYBER");
         System.out.println("Привет CYBER");
         System.out.println("Привет Привет");
+        System.out.println("Тренировки класс");
     }
 }
